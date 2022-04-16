@@ -1,0 +1,11 @@
+[package]
+name = "git-cip"
+version = "0.1.0"
+authors = ["Sławomir Chrobak <slawomir.chrobak@gmail.com>"]
+edition = "2021"
+rust-version = "1.60"
+description = "Easily create a new branch based on one of your opened github issues"
+repository = "https://github.com/schrobak/git-cip"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
